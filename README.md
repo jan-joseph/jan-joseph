@@ -1,3 +1,3 @@
 👋 Hi, I’m Jan.
-👀 I enjoy coding.
-🌱 I’m currently learning most coding stuff.
+:computer: I enjoy coding.
+:four_leaf_clover: I’m learning most coding stuff.
